@@ -1,0 +1,15 @@
+Username: manager
+Password: man123john
+
+
+Username: customer
+Password: cust456jimmy
+
+
+Username: delivery_crew
+Password: deli721crew
+
+
+
+Username: new_manaer
+Password: 117new_manager233
